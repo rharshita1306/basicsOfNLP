@@ -1,1 +1,1 @@
-# StartingNLP
+# basicsOfNLP
