@@ -1,1 +1,1 @@
-# kickStartingNLP
+# StartingNLP
